@@ -1,0 +1,8 @@
+Valid ZIPs: 64110, 30301-1234, 90210 4321; Invalid: 12-345, 123456.
+Words: apple, McDonald’s, e-mail, E-mail, go, gooo!!!, "Is this okay?"
+Numbers: -12, +3.1415, 12,345.67, 6.022e23, 1E-9, bad1e3, 1,23,456
+Lines?
+"Are you sure?" )   # ends with question mark + quotes/brackets + spaces
+This is not a question.
+Email spellings: email, e-mail, e–mail, e—mail, EMail
+go goooo go? go! go. g,oo
