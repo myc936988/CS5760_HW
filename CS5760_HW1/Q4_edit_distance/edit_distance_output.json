@@ -1,0 +1,42 @@
+{
+  "modelA": {
+    "a": "Sunday",
+    "b": "Saturday",
+    "costs": {
+      "sub": 1,
+      "ins": 1,
+      "del": 1
+    },
+    "distance": 3,
+    "ops": [
+      "Keep 'S'",
+      "Insert 'a'",
+      "Insert 't'",
+      "Keep 'u'",
+      "Substitute 'n' -> 'r'",
+      "Keep 'd'",
+      "Keep 'a'",
+      "Keep 'y'"
+    ]
+  },
+  "modelB": {
+    "a": "Sunday",
+    "b": "Saturday",
+    "costs": {
+      "sub": 2,
+      "ins": 1,
+      "del": 1
+    },
+    "distance": 4,
+    "ops": [
+      "Keep 'S'",
+      "Insert 'a'",
+      "Insert 't'",
+      "Keep 'u'",
+      "Substitute 'n' -> 'r'",
+      "Keep 'd'",
+      "Keep 'a'",
+      "Keep 'y'"
+    ]
+  }
+}
