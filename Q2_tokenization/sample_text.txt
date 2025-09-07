@@ -1,1 +1,0 @@
-AI is moving fast: models improve weekly. But 'tokenization' still matters—don’t ignore it. Email me at test@example.com, okay?
